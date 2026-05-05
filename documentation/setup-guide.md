@@ -44,7 +44,7 @@ Semua perintah berikut dijalankan di dalam folder `backend/`.
 ### 2.1 Clone Repositori
 
 ```bash
-git clone <repository-url> task-management
+git clone https://github.com/Akiyaaaaaa/fs_task_management_laravel.git task-management
 cd task-management/backend
 ```
 
